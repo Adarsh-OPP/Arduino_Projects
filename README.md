@@ -1,2 +1,1 @@
-# Arduino_Projects
-This repo is dedicated to arduino ai project 
+open Read_Me.txt
